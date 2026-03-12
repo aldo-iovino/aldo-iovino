@@ -4,6 +4,13 @@
 
 Appassionato di Cybersecurity, Reti e Software Development. Attualmente sto concludendo la mia laurea triennale al Polimi e mi sto orientando verso il mondo della Sicurezza Offensiva (Penetration Testing) e dell'analisi delle vulnerabilità. Costruisco per capire, rompo per imparare.
 
+## Obbiettivi
+- Certificazione git fundamentals & security
+- Certificazione matlab
+- Certificazione CJCA
+- Certificazione CWES
+- Certificazione The Burp Suite Certified Practitioner (BSCP) 
+
 ---
 
 ## 🎯 Cosa troverai in questo profilo
