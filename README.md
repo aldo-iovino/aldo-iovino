@@ -9,7 +9,11 @@ Appassionato di Cybersecurity, Reti e Software Development. Attualmente sto conc
 - Certificazione matlab
 - Certificazione CJCA
 - Certificazione CWES
-- Certificazione The Burp Suite Certified Practitioner (BSCP) 
+- Certificazione The Burp Suite Certified Practitioner (BSCP)
+
+## Work in Progress
+- Progettare con tecniche di SDR un Radar Bistatico con Adalm-Pluto in matlab
+- Progettare con tecniche di SDN un 
 
 ---
 
