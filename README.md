@@ -5,6 +5,7 @@
 Appassionato di Cybersecurity, Reti e Software Development. Attualmente sto concludendo la mia laurea triennale al Polimi e mi sto orientando verso il mondo della Sicurezza Offensiva (Penetration Testing) e dell'analisi delle vulnerabilità. Costruisco per capire, rompo per imparare.
 
 ## Obbiettivi
+- devops-with-docker-spring-2026
 - Certificazione git fundamentals & security
 - Certificazione matlab
 - Certificazione CJCA
